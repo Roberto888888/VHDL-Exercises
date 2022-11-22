@@ -8,3 +8,5 @@ For these exams we were asked to provide a project which included multiple simul
 We used Xilinx ISE to write the projects and Modelsim Simulation for the testbenches. I'm not sure these still exist. I'm only sharing the source code, not the procedure to set up a simulation.
 
 I hope this may be useful to anyone who wants to learn VHDL.
+
+PS. If you think these are too simple to be final exams, notice that the VHDL part was only 10% of the whole exam.
