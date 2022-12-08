@@ -1,0 +1,6 @@
+V1 3
+FL c:/users/roberto/desktop/freq_gen/freqGen.vhd 2013/09/08.04:15:08
+EN work/FREQGEN         FL c:/users/roberto/desktop/freq_gen/freqGen.vhd \
+      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
+AR work/FREQGEN/BEHAVIORAL FL c:/users/roberto/desktop/freq_gen/freqGen.vhd \
+      EN work/FREQGEN

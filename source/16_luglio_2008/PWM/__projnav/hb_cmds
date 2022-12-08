@@ -1,0 +1,5 @@
+-proj c:\users\roberto\desktop\pwm
+-t pwmtb.tbw
+-source pwm.vhd
+-entity pwm
+-ipcport 49611

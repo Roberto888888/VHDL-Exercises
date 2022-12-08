@@ -1,0 +1,20 @@
+# XST (Creating Lso File) : 
+pwm.lso
+# Check Syntax
+pwm.stx
+# ProjNav -> New Source -> TBW
+c:\users\roberto\desktop\pwm\__projnav\hb_cmds
+# Bencher Waveform : PDCL (jhdparse)
+# ModelSim : Simulate Behavioral VHDL Model
+pwmtb.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+pwmtb.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# ModelSim : Simulate Behavioral VHDL Model
+pwmtb.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf

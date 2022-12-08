@@ -1,0 +1,121 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:\Users\Roberto\Desktop\freq_Gen
+!i10d 8192
+!i10e 25
+!i10f 100
+Efreqgen
+Z1 w1378604983
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 @_jbHPR7i^Jh?`2fDCO`m3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z4 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z6 dC:\Users\Roberto\Desktop\freq_Gen
+Z7 8freqGen.vhd
+Z8 FfreqGen.vhd
+l0
+L6
+V4U4bU_kLI7NU0]zHV[]MW1
+Z9 OP;C;10.2;57
+31
+Z10 !s110 1378605026
+Z11 !s108 1378605026.826000
+Z12 !s90 -reportprogress|300|-93|-explicit|freqGen.vhd|
+Z13 !s107 freqGen.vhd|
+Z14 o-93 -explicit -O0
+Z15 tExplicit 1
+!s100 774ViZ<C[nSSP@ClPQDj>0
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+Z16 DEx4 work 7 freqgen 0 22 4U4bU_kLI7NU0]zHV[]MW1
+l19
+L11
+V80noXlC_@kF8MI7aR:dQC1
+R9
+31
+R10
+R11
+R12
+R13
+R14
+R15
+!s100 bzLcl>]aUfRd]TjKYJ=El1
+!i10b 1
+Cfreqgen_cfg
+etestvf
+atestbench_arch
+R16
+DAx4 work 6 testvf 14 testbench_arch 22 H?zTFiZa6dBR?02hQSMMO0
+Z17 DPx4 ieee 16 std_logic_textio 0 22 E=LR>a2bb_I?VV>QDdAdh3
+R2
+R3
+R4
+R5
+Z18 DEx4 work 6 testvf 0 22 _WkZA_=i22n0D[:A7iR7n2
+Z19 w1378605020
+R6
+Z20 8testvf.vhw
+Z21 Ftestvf.vhw
+l0
+L122
+VKj5jf^W49V0E5Jj2W:Nng0
+!s100 g``F4LdWf>^:z37:0Ocf82
+R9
+31
+Z22 !s110 1378605027
+!i10b 0
+Z23 !s108 1378605026.935000
+Z24 !s90 -reportprogress|300|-93|-explicit|testvf.vhw|
+Z25 !s107 testvf.vhw|
+R14
+R15
+Etestvf
+R19
+R17
+R2
+R3
+R4
+R5
+R6
+R20
+R21
+l0
+L21
+V_WkZA_=i22n0D[:A7iR7n2
+!s100 _LCXm9k`<MgFim:>Yj4Ga3
+R9
+31
+R10
+!i10b 1
+R23
+R24
+R25
+R14
+R15
+Atestbench_arch
+R17
+R2
+R3
+R4
+R5
+R18
+l42
+L24
+VH?zTFiZa6dBR?02hQSMMO0
+!s100 KfmYE[To[SbbjBk_;L[c53
+R9
+31
+R22
+!i10b 1
+R23
+R24
+R25
+R14
+R15

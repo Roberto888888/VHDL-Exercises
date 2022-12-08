@@ -1,0 +1,16 @@
+# XST (Creating Lso File) : 
+freqgen.lso
+# Check Syntax
+freqgen.stx
+# XST (Creating Lso File) : 
+freqgen.lso
+# Check Syntax
+freqgen.stx
+# ProjNav -> New Source -> TBW
+c:\users\roberto\desktop\freq_gen\__projnav\hb_cmds
+# Bencher Waveform : PDCL (jhdparse)
+# ModelSim : Simulate Behavioral VHDL Model
+testvf.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)

@@ -1,0 +1,40 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/freq_gen/freqGen.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/freq_gen/freqGen.vhd Line 19. parse error, unexpected TOKBEGIN, expecting error or IDENTIFIER
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/freq_gen/freqGen.vhd in Library work.
+Entity <freqGen> (Architecture <Behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+

@@ -1,0 +1,5 @@
+-proj c:\users\roberto\desktop\freq_gen
+-t testvf.tbw
+-source freqGen.vhd
+-entity freqgen
+-ipcport 50217

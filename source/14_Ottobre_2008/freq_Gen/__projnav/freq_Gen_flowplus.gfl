@@ -1,0 +1,14 @@
+# XST flow : Creating project file
+freqgen.prj
+# xst flow : Check Syntax
+freqgen.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/freqgen.xst
+xst
+# XST flow : Creating project file
+freqgen.prj
+# xst flow : Check Syntax
+freqgen.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/freqgen.xst
+xst
