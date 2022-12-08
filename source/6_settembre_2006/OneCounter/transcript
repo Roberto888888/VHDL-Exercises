@@ -1,0 +1,78 @@
+# Reading C:/Modeltech_pe_edu_10.3d/tcl/vsim/pref.tcl
+# do OC.fdo
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim PE Student Edition vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 11:30:36 on Nov 18,2014
+# vcom -reportprogress 300 -93 -explicit onecounter.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity onecounter
+# -- Compiling architecture Behavioral of onecounter
+# End time: 11:30:38 on Nov 18,2014, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 11:30:38 on Nov 18,2014
+# vcom -reportprogress 300 -93 -explicit OC.vhw 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Compiling entity OC
+# -- Compiling architecture testbench_arch of OC
+# -- Compiling configuration onecounter_cfg
+# -- Loading entity OC
+# -- Loading architecture testbench_arch of OC
+# -- Loading entity onecounter
+# End time: 11:30:39 on Nov 18,2014, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# //  ModelSim PE Student Edition 10.3d Oct  7 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui -do "OC.fdo" 
+# Start time: 11:30:39 on Nov 18,2014
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.oc(testbench_arch)
+# Loading work.onecounter(behavioral)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Failure: Simulation successful (not a failure).  No problems detected. 
+#    Time: 4420 ns  Iteration: 0  Process: /oc/line__68 File: OC.vhw
+# Break in Process line__68 at OC.vhw line 194
+# Simulation Breakpoint: Break in Process line__68 at OC.vhw line 194
+# MACRO ./OC.fdo PAUSED at line 13
+add wave -position end  sim:/oc/UUT/BCD
+add wave -position end  sim:/oc/UUT/cnt1
+add wave -position end  sim:/oc/UUT/cnt2
+run -all
+# ** Failure: Simulation successful (not a failure).  No problems detected. 
+#    Time: 8840 ns  Iteration: 0  Process: /oc/line__68 File: OC.vhw
+# Break in Process line__68 at OC.vhw line 194
+# Simulation Breakpoint: Break in Process line__68 at OC.vhw line 194
+# MACRO ./OC.fdo PAUSED at line 13
+restart
+run -all
+# ** Failure: Simulation successful (not a failure).  No problems detected. 
+#    Time: 4420 ns  Iteration: 0  Process: /oc/line__68 File: OC.vhw
+# Break in Process line__68 at OC.vhw line 194
