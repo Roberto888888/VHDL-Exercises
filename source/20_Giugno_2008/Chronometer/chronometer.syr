@@ -1,0 +1,109 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to __projnav
+CPU : 0.00 / 0.58 s | Elapsed : 0.00 / 1.00 s
+ 
+--> Parameter xsthdpdir set to ./xst
+CPU : 0.00 / 0.58 s | Elapsed : 0.00 / 1.00 s
+ 
+--> Reading design: chronometer.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) HDL Analysis
+  4) HDL Synthesis
+     4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+  6) Low Level Synthesis
+  7) Final Report
+     7.1) Device utilization summary
+     7.2) TIMING REPORT
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : chronometer.prj
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+Verilog Include Directory          : 
+
+---- Target Parameters
+Output File Name                   : chronometer
+Output Format                      : NGC
+Target Device                      : xc2v40-6-cs144
+
+---- Source Options
+Top Module Name                    : chronometer
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+FSM Style                          : lut
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+ROM Style                          : Auto
+Mux Extraction                     : YES
+Mux Style                          : Auto
+Decoder Extraction                 : YES
+Priority Encoder Extraction        : YES
+Shift Register Extraction          : YES
+Logical Shifter Extraction         : YES
+XOR Collapsing                     : YES
+Resource Sharing                   : YES
+Multiplier Style                   : auto
+Automatic Register Balancing       : No
+
+---- Target Options
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 500
+Add Generic Clock Buffer(BUFG)     : 16
+Register Duplication               : YES
+Equivalent register Removal        : YES
+Slice Packing                      : YES
+Pack IO Registers into IOBs        : auto
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : NO
+Global Optimization                : AllClockNets
+RTL Output                         : Yes
+Write Timing Constraints           : NO
+Hierarchy Separator                : _
+Bus Delimiter                      : <>
+Case Specifier                     : maintain
+Slice Utilization Ratio            : 100
+Slice Utilization Ratio Delta      : 5
+
+---- Other Options
+lso                                : chronometer.lso
+Read Cores                         : YES
+cross_clock_analysis               : NO
+verilog2001                        : YES
+Optimize Instantiated Primitives   : NO
+
+=========================================================================
+
+WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd in Library work.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 36. Undefined symbol 'pt1'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 37. Undefined symbol 'pt2'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 38. Undefined symbol 'pt3'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 39. Undefined symbol 'pt4'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 92. pt1: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 93. pt2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 94. pt3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 95. pt4: Undefined symbol (last report in this block)
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 121. parse error, unexpected CHARACTER_LITERAL, expecting COMMA or CLOSEPAR
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 131. parse error, unexpected IF, expecting PROCESS
+--> 
+
+Total memory usage is 73824 kilobytes
+
+

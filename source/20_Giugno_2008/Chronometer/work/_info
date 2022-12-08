@@ -1,0 +1,121 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:\Users\Roberto\Desktop\Chronometer
+!i10d 8192
+!i10e 25
+!i10f 100
+Echr
+Z1 w1378489970
+Z2 DPx4 ieee 16 std_logic_textio 0 22 E=LR>a2bb_I?VV>QDdAdh3
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 @_jbHPR7i^Jh?`2fDCO`m3
+Z4 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z5 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z7 dC:\Users\Roberto\Desktop\Chronometer
+Z8 8chr.vhw
+Z9 Fchr.vhw
+l0
+L21
+VMa85AVD`<hzmO90l`dOS_0
+!s100 YKgO1_CLgcNIX0R4c7W]01
+Z10 OP;C;10.2;57
+31
+Z11 !s110 1378489997
+!i10b 1
+Z12 !s108 1378489996.761000
+Z13 !s90 -reportprogress|300|-93|-explicit|chr.vhw|
+Z14 !s107 chr.vhw|
+Z15 o-93 -explicit -O0
+Z16 tExplicit 1
+Atestbench_arch
+R2
+R3
+R4
+R5
+R6
+Z17 DEx4 work 3 chr 0 22 Ma85AVD`<hzmO90l`dOS_0
+l46
+L24
+Z18 VC^8aNNSe>HI@6>NXfg`=h1
+Z19 !s100 mK18H3mzLVMOB:^eCRa^f1
+R10
+31
+R11
+!i10b 1
+R12
+R13
+R14
+R15
+R16
+Echrono
+Z20 w1378489953
+R3
+R4
+R5
+R6
+R7
+Z21 8Chrono.vhd
+Z22 FChrono.vhd
+l0
+L6
+V@77a]cG0O1iU>=MG4em=R3
+R10
+31
+Z23 !s110 1378489996
+Z24 !s108 1378489996.411000
+Z25 !s90 -reportprogress|300|-93|-explicit|Chrono.vhd|
+Z26 !s107 Chrono.vhd|
+R15
+R16
+!s100 o8[Ba1fQNBED>D>c?SIC>3
+!i10b 1
+Abehavioral
+R3
+R4
+R5
+R6
+Z27 DEx4 work 6 chrono 0 22 @77a]cG0O1iU>=MG4em=R3
+l23
+L11
+VQmTF:H[0>PFg7OK6CfHij3
+R10
+31
+R23
+R24
+R25
+R26
+R15
+R16
+!s100 e2c:jBa43ag[BD5NO91kl3
+!i10b 1
+Cchrono_cfg
+echr
+atestbench_arch
+R27
+DAx4 work 3 chr 14 testbench_arch 22 C^8aNNSe>HI@6>NXfg`=h1
+R2
+R3
+R4
+R5
+R6
+R17
+R1
+R7
+R8
+R9
+l0
+L196
+V`UeOP=f1PjPNLJIb7NFbR1
+!s100 =2I;EK^GRDfG9KzzKaH[B1
+R10
+31
+R11
+!i10b 0
+R12
+R13
+R14
+R15
+R16

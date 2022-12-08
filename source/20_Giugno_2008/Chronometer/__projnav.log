@@ -1,0 +1,886 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd in Library work.
+WARNING:HDLParsers:3350 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 77. Null range: 11 downto 16
+WARNING:HDLParsers:3350 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 77. Null range: 11 downto 16
+Entity <Chronometer> (Architecture <Behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd in Library work.
+Entity <chronometer> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Synthesize".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd in Library work.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 36. Undefined symbol 'pt1'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 37. Undefined symbol 'pt2'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 38. Undefined symbol 'pt3'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 39. Undefined symbol 'pt4'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 92. pt1: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 93. pt2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 94. pt3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 95. pt4: Undefined symbol (last report in this block)
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 121. parse error, unexpected CHARACTER_LITERAL, expecting COMMA or CLOSEPAR
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 131. parse error, unexpected IF, expecting PROCESS
+--> 
+
+Total memory usage is 73824 kilobytes
+
+
+ERROR: XST failed
+Process "Synthesize" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd in Library work.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 36. Undefined symbol 'pt1'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 37. Undefined symbol 'pt2'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 38. Undefined symbol 'pt3'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 39. Undefined symbol 'pt4'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 92. pt1: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 93. pt2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 94. pt3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 95. pt4: Undefined symbol (last report in this block)
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 121. parse error, unexpected CHARACTER_LITERAL, expecting COMMA or CLOSEPAR
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 131. parse error, unexpected IF, expecting PROCESS
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd in Library work.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 88. Undefined symbol 'pt1'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 89. Undefined symbol 'pt2'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 90. Undefined symbol 'pt3'.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 91. Undefined symbol 'pt4'.
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 117. parse error, unexpected CHARACTER_LITERAL, expecting COMMA or CLOSEPAR
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 127. parse error, unexpected IF, expecting PROCESS
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd in Library work.
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 113. parse error, unexpected CHARACTER_LITERAL, expecting COMMA or CLOSEPAR
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 123. parse error, unexpected IF, expecting PROCESS
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3458 - Because of erroneous VHDL in VHDL file C:\Users\Roberto\Desktop\Chronometer/Chronometer.vhd, automatic determination of correct order of compilation of files in project file chronometer_vhdl.prj is not possible. Please compile your vhdl file(s) individually to find and fix the error(s) in your vhdl file(s). Defaulting to compilation in the order vhdl file names appear in the project file.
+Compiling vhdl file C:\Users\Roberto\Desktop\Chronometer/Chronometer.vhd in Library work.
+ERROR:HDLParsers:164 - C:\Users\Roberto\Desktop\Chronometer/Chronometer.vhd Line 113. parse error, unexpected CHARACTER_LITERAL, expecting COMMA or CLOSEPAR
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd in Library work.
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 113. parse error, unexpected CHARACTER_LITERAL, expecting COMMA or CLOSEPAR
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chronometer.vhd Line 122. parse error, unexpected IF, expecting PROCESS
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+ERROR:HDLParsers:1402 - C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd Line 47. Object START_STOP of mode IN can not be updated.
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd Line 91. parse error, unexpected IDENTIFIER, expecting SEMICOLON
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd Line 108. Undefined symbol 'conv_std_logic'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd Line 108. conv_std_logic: Undefined symbol (last report in this block)
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+ERROR:HDLParsers:1402 - C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd Line 47. Object START_STOP of mode IN can not be updated.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd Line 42. Undefined symbol 'THENTS'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd Line 42. THENTS: Undefined symbol (last report in this block)
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <Chrono> (Architecture <Behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+ERROR:HDLParsers:800 - C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd Line 61. Type of S1 is incompatible with type of 'Z'.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+ERROR:HDLParsers:800 - C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd Line 61. Type of S1 is incompatible with type of '7'.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+ERROR: 
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+ERROR: 
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+ERROR: 
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/Chronometer/Chrono.vhd in Library
+work.
+Entity <chrono> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+

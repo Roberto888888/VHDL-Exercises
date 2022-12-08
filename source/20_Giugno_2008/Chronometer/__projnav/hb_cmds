@@ -1,0 +1,5 @@
+-proj c:\users\roberto\desktop\chronometer
+-t chr.tbw
+-source Chrono.vhd
+-entity chrono
+-ipcport 53080

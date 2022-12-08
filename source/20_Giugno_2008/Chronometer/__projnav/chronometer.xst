@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn chronometer.prj
+-ifmt mixed

@@ -1,0 +1,57 @@
+# Reading C:/Modeltech_pe_edu_10.2/tcl/vsim/pref.tcl 
+# do chr.fdo 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim PE Student Edition vcom 10.2 Compiler 2013.02 Feb  2 2013
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity Chrono
+# -- Compiling architecture Behavioral of Chrono
+# Model Technology ModelSim PE Student Edition vcom 10.2 Compiler 2013.02 Feb  2 2013
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Compiling entity chr
+# -- Compiling architecture testbench_arch of chr
+# -- Compiling configuration chrono_cfg
+# -- Loading entity chr
+# -- Loading architecture testbench_arch of chr
+# -- Loading entity Chrono
+# //  ModelSim PE Student Edition 10.2 Feb  2 2013 
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -lib work -t 1ps chr 
+# ** WARNING: ModelSim PE Student Edition license key will expire as of (null).
+#   Please go to http://www.model.com and download the ModelSim PE Student Edition update.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.chr(testbench_arch)
+# Loading work.chrono(behavioral)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Failure: Simulation successful (not a failure).  No problems detected. 
+#    Time: 17500 ns  Iteration: 0  Process: /chr/line__71 File: chr.vhw
+# Break in Process line__71 at chr.vhw line 182
+# Simulation Breakpoint: Break in Process line__71 at chr.vhw line 182
+# MACRO ./chr.fdo PAUSED at line 13
