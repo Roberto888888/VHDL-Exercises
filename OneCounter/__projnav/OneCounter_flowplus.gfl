@@ -1,0 +1,7 @@
+# XST flow : Creating project file
+onecounter.prj
+# xst flow : Check Syntax
+onecounter.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/onecounter.xst
+xst
