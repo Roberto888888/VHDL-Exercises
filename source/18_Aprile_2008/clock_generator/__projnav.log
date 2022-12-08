@@ -1,0 +1,1128 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <Behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:821 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 59. Wrong index type for regIn.
+ERROR:HDLParsers:821 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 60. Wrong index type for regIn.
+ERROR:HDLParsers:821 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 61. Wrong index type for regIn.
+ERROR:HDLParsers:821 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 62. Wrong index type for regIn.
+ERROR:HDLParsers:808 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 68. * can not have such operands in this context.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 73. parse error, unexpected TO
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 75. parse error, unexpected WHEN, expecting END
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:821 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 59. Wrong index type for regIn.
+ERROR:HDLParsers:821 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 60. Wrong index type for regIn.
+ERROR:HDLParsers:821 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 61. Wrong index type for regIn.
+ERROR:HDLParsers:821 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 62. Wrong index type for regIn.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 75. parse error, unexpected ROW
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 75. parse error, unexpected ROW
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clock_generator/clk_generator.vhd in Library work.
+WARNING:HDLParsers:817 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 68. Choice .to. is not a locally static expression.
+WARNING:HDLParsers:817 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 71. Choice .to. is not a locally static expression.
+WARNING:HDLParsers:817 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 76. Choice - is not a locally static expression.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 71. parse error, unexpected CLOSEPAR, expecting PIPE or ROW
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 76. parse error, unexpected WHEN, expecting END
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 79. parse error, unexpected WHEN, expecting END
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clock_generator/clk_generator.vhd in Library work.
+WARNING:HDLParsers:817 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 68. Choice .to. is not a locally static expression.
+WARNING:HDLParsers:817 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 71. Choice .to. is not a locally static expression.
+WARNING:HDLParsers:817 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 76. Choice - is not a locally static expression.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clock_generator/clk_generator.vhd Line 70. parse error, unexpected THEN, expecting COMMA or CLOSEPAR
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Architecture behavioral of Entity clk_generator is up to date.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 26. parse error, unexpected SIGNAL
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 34. Undefined symbol 'word2'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 34. word2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 35. Undefined symbol 'word3'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 35. word3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 36. Undefined symbol 'word4'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 36. word4: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3313 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 37. Undefined symbol 'cntOut'.  Should it be: 'cnt Out'?
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 37. cntOut: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 38. Undefined symbol 'counter'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 38. counter: Undefined symbol (last report in this block)
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 48. parse error, unexpected ELSIF
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 58. parse error, unexpected WHEN
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 62. parse error, unexpected WHEN
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 66. parse error, unexpected WHEN
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 70. parse error, unexpected WHEN
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 73. parse error, unexpected WHEN
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 80. parse error, unexpected WHEN
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 56. Undefined symbol 'word'.
+ERROR:HDLParsers:410 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 57. Variable 'counter' counter is at left hand side of signal assignment statement.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 56. Undefined symbol 'word'.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:410 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 88. Variable 'max' max is at left hand side of signal assignment statement.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:410 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 47. Variable 'input' input is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 48. Variable 'divFactor' divfactor is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 49. Variable 'counter' counter is at left hand side of signal assignment statement.
+ERROR:HDLParsers:410 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 50. Variable 'cntOut' cntOut is at left hand side of signal assignment statement.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:410 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 106. Variable 'cntOut' cntOut is at left hand side of signal assignment statement.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 42. Undefined symbol 'counter'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 42. counter: Undefined symbol (last report in this block)
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 89. = can not have such operands in this context.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 101. Undefined symbol 'divfactor'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 101. divfactor: Undefined symbol (last report in this block)
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 42. Undefined symbol 'counter'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 42. counter: Undefined symbol (last report in this block)
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 89. = can not have such operands in this context.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 101. Undefined symbol 'divfactor'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 101. divfactor: Undefined symbol (last report in this block)
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 42. Undefined symbol 'counter'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 42. counter: Undefined symbol (last report in this block)
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 89. = can not have such operands in this context.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 42. Undefined symbol 'counter'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd Line 42. counter: Undefined symbol (last report in this block)
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd
+in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd
+in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd
+in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd
+in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+ERROR: 
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd
+in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+ERROR: 
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd
+in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd
+in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd
+in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+ERROR: 
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd
+in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+ERROR: 
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd
+in Library work.
+Entity <clk_generator> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+

@@ -1,0 +1,121 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:\Users\Roberto\Desktop\clock_generator
+!i10d 8192
+!i10e 25
+!i10f 100
+Eclk_generator
+Z1 w1378071534
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 @_jbHPR7i^Jh?`2fDCO`m3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z4 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z6 dC:\Users\Roberto\Desktop\clock_generator
+Z7 8clk_generator.vhd
+Z8 Fclk_generator.vhd
+l0
+L6
+VMIZ?z_oNY]X3VmTo9gC;A0
+Z9 OP;C;10.2;57
+31
+Z10 !s110 1378071934
+Z11 !s108 1378071934.610000
+Z12 !s90 -reportprogress|300|-93|-explicit|clk_generator.vhd|
+Z13 !s107 clk_generator.vhd|
+Z14 o-93 -explicit -O0
+Z15 tExplicit 1
+!s100 HK2z@6H5]@GWiZ]gMK9mB3
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+Z16 DEx4 work 13 clk_generator 0 22 MIZ?z_oNY]X3VmTo9gC;A0
+l22
+L12
+V3cS?Vnh=PHegVI4hg2@9d0
+!s100 RNF9E7j^co@GWCLnL53N:2
+R9
+31
+R10
+R11
+R12
+R13
+R14
+R15
+!i10b 1
+Cclk_generator_cfg
+eclkgen
+atestbench_arch
+R16
+DAx4 work 6 clkgen 14 testbench_arch 22 81C:]cK>eDbEenMg?3jjz0
+Z17 DPx4 ieee 16 std_logic_textio 0 22 E=LR>a2bb_I?VV>QDdAdh3
+R2
+R3
+R4
+R5
+Z18 DEx4 work 6 clkgen 0 22 ]3@DDFEIfLeln02Y9>EAN2
+Z19 w1378071928
+R6
+Z20 8clkgen.vhw
+Z21 Fclkgen.vhw
+l0
+L311
+VM7Bm;cA<DjnBR89?QCHY_0
+!s100 DB]e1LNzZRmZdH:lC669c2
+R9
+31
+R10
+!i10b 0
+Z22 !s108 1378071934.735000
+Z23 !s90 -reportprogress|300|-93|-explicit|clkgen.vhw|
+Z24 !s107 clkgen.vhw|
+R14
+R15
+Eclkgen
+R19
+R17
+R2
+R3
+R4
+R5
+R6
+R20
+R21
+l0
+L21
+V]3@DDFEIfLeln02Y9>EAN2
+!s100 oAi3I6Gi5Sool^:4]PP1h2
+R9
+31
+R10
+!i10b 1
+R22
+R23
+R24
+R14
+R15
+Atestbench_arch
+R17
+R2
+R3
+R4
+R5
+R18
+l46
+L24
+Z25 V81C:]cK>eDbEenMg?3jjz0
+Z26 !s100 EX3:53N4Dbh5hP9oTZoSf0
+R9
+31
+R10
+!i10b 1
+R22
+R23
+R24
+R14
+R15

@@ -1,0 +1,9 @@
+V1 4
+FL c:/users/roberto/desktop/clock_generator/clk_generator.vhd 2013/09/01.01:33:31
+FL C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd 2013/09/01.23:38:54
+EN work/CLK_GENERATOR \
+      FL C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd \
+      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
+AR work/CLK_GENERATOR/BEHAVIORAL \
+      FL C:/Users/Roberto/Desktop/clock_generator/clk_generator.vhd \
+      EN work/CLK_GENERATOR

@@ -1,0 +1,5 @@
+-proj c:\users\roberto\desktop\clock_generator
+-t clkgen.tbw
+-source clk_generator.vhd
+-entity clk_generator
+-ipcport 51259
