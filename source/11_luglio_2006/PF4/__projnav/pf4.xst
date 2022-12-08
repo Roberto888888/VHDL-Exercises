@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn pf4.prj
+-ifmt mixed

@@ -1,0 +1,5 @@
+-proj c:\users\roberto\desktop\pf4
+-t tbw.tbw
+-source PF4.vhd
+-entity pf4
+-ipcport 56332

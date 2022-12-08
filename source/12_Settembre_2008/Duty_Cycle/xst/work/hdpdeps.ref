@@ -1,0 +1,6 @@
+V1 3
+FL C:/Users/Roberto/Desktop/Duty_Cycle/duty_cycle.vhd 2013/09/07.20:59:38
+EN work/DUTY_CYCLE      FL C:/Users/Roberto/Desktop/Duty_Cycle/duty_cycle.vhd \
+      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
+AR work/DUTY_CYCLE/BEHAVIORAL \
+      FL C:/Users/Roberto/Desktop/Duty_Cycle/duty_cycle.vhd EN work/DUTY_CYCLE
