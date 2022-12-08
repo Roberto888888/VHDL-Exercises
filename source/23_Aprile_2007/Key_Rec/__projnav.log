@@ -1,0 +1,120 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/key_rec/Key_Rec.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/key_rec/Key_Rec.vhd Line 7. parse error, unexpected IDENTIFIER, expecting COMMA or COLON
+WARNING:HDLParsers:3465 - Library  0x1.7bbb00p-1011s no units. Did not save reference file xst/work/hdllib.ref for it.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/key_rec/Key_Rec.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/key_rec/Key_Rec.vhd Line 43. parse error, unexpected THEN, expecting COMMA or CLOSEPAR
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/key_rec/Key_Rec.vhd Line 49. parse error, unexpected IF, expecting PROCESS
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/key_rec/Key_Rec.vhd in Library work.
+Entity <Key_Rec> (Architecture <Behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+

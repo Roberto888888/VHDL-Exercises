@@ -1,0 +1,6 @@
+V1 3
+FL c:/users/roberto/desktop/key_rec/Key_Rec.vhd 2013/08/25.04:37:37
+EN work/KEY_REC         FL c:/users/roberto/desktop/key_rec/Key_Rec.vhd \
+      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
+AR work/KEY_REC/BEHAVIORAL FL c:/users/roberto/desktop/key_rec/Key_Rec.vhd \
+      EN work/KEY_REC

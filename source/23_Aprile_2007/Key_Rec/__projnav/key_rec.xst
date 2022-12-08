@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn key_rec.prj
+-ifmt mixed

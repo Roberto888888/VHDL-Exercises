@@ -1,0 +1,5 @@
+-proj c:\users\roberto\desktop\key_rec
+-t tbw_1.tbw
+-source Key_Rec.vhd
+-entity key_rec
+-ipcport 49564
