@@ -1,0 +1,6 @@
+V1 3
+FL c:/users/roberto/desktop/select/select.vhd 2013/09/08.18:38:52
+EN work/SELECTION       FL c:/users/roberto/desktop/select/select.vhd \
+      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
+AR work/SELECTION/BEHAVIORAL FL c:/users/roberto/desktop/select/select.vhd \
+      EN work/SELECTION

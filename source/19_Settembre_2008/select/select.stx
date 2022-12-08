@@ -1,0 +1,19 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.11 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/select/select.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/select/select.vhd Line 6. parse error, unexpected SELECT, expecting IDENTIFIER
+WARNING:HDLParsers:3465 - Library  0x1.7bbb00p-1011s no units. Did not save reference file xst/work/hdllib.ref for it.
+CPU : 0.05 / 0.16 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 73824 kilobytes
+
+

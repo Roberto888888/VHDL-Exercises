@@ -1,0 +1,57 @@
+# Reading C:/Modeltech_pe_edu_10.2/tcl/vsim/pref.tcl 
+# do test.fdo 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim PE Student Edition vcom 10.2 Compiler 2013.02 Feb  2 2013
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity selection
+# -- Compiling architecture Behavioral of selection
+# Model Technology ModelSim PE Student Edition vcom 10.2 Compiler 2013.02 Feb  2 2013
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Compiling entity test
+# -- Compiling architecture testbench_arch of test
+# -- Compiling configuration selection_cfg
+# -- Loading entity test
+# -- Loading architecture testbench_arch of test
+# -- Loading entity selection
+# //  ModelSim PE Student Edition 10.2 Feb  2 2013 
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -lib work -t 1ps test 
+# ** WARNING: ModelSim PE Student Edition license key will expire as of (null).
+#   Please go to http://www.model.com and download the ModelSim PE Student Edition update.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.test(testbench_arch)
+# Loading work.selection(behavioral)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Failure: Simulation successful (not a failure).  No problems detected. 
+#    Time: 2520 ns  Iteration: 0  Process: /test/line__80 File: test.vhw
+# Break in Process line__80 at test.vhw line 264
+# Simulation Breakpoint: Break in Process line__80 at test.vhw line 264
+# MACRO ./test.fdo PAUSED at line 13

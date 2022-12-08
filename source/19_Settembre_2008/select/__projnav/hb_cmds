@@ -1,0 +1,5 @@
+-proj c:\users\roberto\desktop\select
+-t test.tbw
+-source select.vhd
+-entity selection
+-ipcport 57170

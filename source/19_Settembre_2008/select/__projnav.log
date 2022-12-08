@@ -1,0 +1,317 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/select/select.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/select/select.vhd Line 6. parse error, unexpected SELECT, expecting IDENTIFIER
+WARNING:HDLParsers:3465 - Library  0x1.7bbb00p-1011s no units. Did not save reference file xst/work/hdllib.ref for it.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/select/select.vhd in Library work.
+Entity <selection> (Architecture <Behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/select/select.vhd in Library work.
+Entity <selection> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3458 - Because of erroneous VHDL in VHDL file c:\users\roberto\desktop\select/select.vhd, automatic determination of correct order of compilation of files in project file selection_vhdl.prj is not possible. Please compile your vhdl file(s) individually to find and fix the error(s) in your vhdl file(s). Defaulting to compilation in the order vhdl file names appear in the project file.
+Compiling vhdl file c:\users\roberto\desktop\select/select.vhd in Library work.
+ERROR:HDLParsers:808 - c:\users\roberto\desktop\select/select.vhd Line 39. = can not have such operands in this context.
+ERROR:HDLParsers:808 - c:\users\roberto\desktop\select/select.vhd Line 43. = can not have such operands in this context.
+ERROR:HDLParsers:3313 - c:\users\roberto\desktop\select/select.vhd Line 44. Undefined symbol 'regSEL'.  Should it be: 'reg SEL'?
+ERROR:HDLParsers:808 - c:\users\roberto\desktop\select/select.vhd Line 46. = can not have such operands in this context.
+ERROR:HDLParsers:808 - c:\users\roberto\desktop\select/select.vhd Line 50. = can not have such operands in this context.
+ERROR:HDLParsers:1209 - c:\users\roberto\desktop\select/select.vhd Line 51. regSEL: Undefined symbol (last report in this block)
+ERROR:HDLParsers:164 - c:\users\roberto\desktop\select/select.vhd Line 55. parse error, unexpected PROCESS, expecting IF
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/select/select.vhd in Library work.
+ERROR:HDLParsers:808 - c:/users/roberto/desktop/select/select.vhd Line 39. = can not have such operands in this context.
+ERROR:HDLParsers:808 - c:/users/roberto/desktop/select/select.vhd Line 43. = can not have such operands in this context.
+ERROR:HDLParsers:3313 - c:/users/roberto/desktop/select/select.vhd Line 44. Undefined symbol 'regSEL'.  Should it be: 'reg SEL'?
+ERROR:HDLParsers:808 - c:/users/roberto/desktop/select/select.vhd Line 46. = can not have such operands in this context.
+ERROR:HDLParsers:808 - c:/users/roberto/desktop/select/select.vhd Line 50. = can not have such operands in this context.
+ERROR:HDLParsers:1209 - c:/users/roberto/desktop/select/select.vhd Line 51. regSEL: Undefined symbol (last report in this block)
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/select/select.vhd in Library work.
+Entity <selection> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/select/select.vhd in Library work.
+Entity <selection> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/select/select.vhd in Library work.
+Entity <selection> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/select/select.vhd in Library work.
+Entity <selection> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/select/select.vhd in Library work.
+Entity <selection> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
