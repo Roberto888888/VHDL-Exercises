@@ -1,0 +1,5 @@
+-proj c:\users\asus\desktop\università\esd\vhdl\esami\risolti\9_settembre_2013\steptostep
+-t sts.tbw
+-source StepToStep.vhd
+-entity steptostep
+-ipcport 49852

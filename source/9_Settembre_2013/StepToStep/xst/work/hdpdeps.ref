@@ -1,0 +1,10 @@
+V1 7
+FL C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/9_Settembre_2013/StepToStep/StepToStep.vhd 2014/11/18.12:03:12
+FL c:/users/roberto/desktop/steptostep/StepToStep.vhd 2013/09/18.16:06:58
+FL C:/Users/asus/Desktop/StepToStep/StepToStep.vhd 2014/11/18.14:03:12
+EN work/STEPTOSTEP      FL C:/Users/asus/Desktop/StepToStep/StepToStep.vhd \
+      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
+AR work/STEPTOSTEP/BEHAVIORAL FL C:/Users/asus/Desktop/StepToStep/StepToStep.vhd \
+      EN work/STEPTOSTEP
+FL C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd 2013/09/18.22:58:56
+FL c:/users/asus/desktop/università/esd/vhdl/esami/risolti/9_settembre_2013/steptostep/StepToStep.vhd 2014/11/18.13:03:12

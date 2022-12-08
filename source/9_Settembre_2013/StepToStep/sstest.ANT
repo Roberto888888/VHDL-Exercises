@@ -1,0 +1,35 @@
+-- C:\USERS\ROBERTO\DESKTOP\STEPTOSTEP
+-- VHDL Annotation Test Bench created by
+-- HDL Bencher 6.1i
+-- Wed Sep 18 16:05:44 2013
+
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_ARITH.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+USE IEEE.STD_LOGIC_TEXTIO.ALL;
+USE STD.TEXTIO.ALL;
+
+ENTITY sstest IS
+END sstest;
+
+ARCHITECTURE testbench_arch OF sstest IS
+-- If you get a compiler error on the following line,
+-- from the menu do Options->Configuration select VHDL 87
+FILE RESULTS: TEXT OPEN WRITE_MODE IS "c:\users\roberto\desktop\steptostep\sstest.ano";
+	COMPONENT steptostep
+		PORT (
+		);
+	END COMPONENT;
+
+
+BEGIN
+	UUT : steptostep
+	PORT MAP (
+	);
+
+	PROCESS -- Annotate outputs process
+		VARIABLE TX_TIME : INTEGER :=0;
+
+	BEGIN
+		CHECK_LOOP : LOOP

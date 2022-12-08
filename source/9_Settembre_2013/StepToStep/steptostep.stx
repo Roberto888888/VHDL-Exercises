@@ -1,0 +1,18 @@
+Release 6.1.03i - xst G.26
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.08 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/9_Settembre_2013/StepToStep/StepToStep.vhd in Library work.
+Entity <steptostep> (Architecture <behavioral>) compiled.
+CPU : 0.03 / 0.11 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 74232 kilobytes
+
+

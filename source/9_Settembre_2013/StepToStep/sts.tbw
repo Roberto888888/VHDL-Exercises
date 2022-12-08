@@ -1,0 +1,36 @@
+info x 29 510 0 0 0 0 0 0 0 0 0 0 0 0 0 0 VHDL
+col x 257 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+radix x 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+entity name 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 steptostep
+term mark 138 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+vlib save 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_ARITH.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+var add 1 0 0 226 7 0 257 100 50 50 10 10 0 0 0 0 CLKInstd_logicRISING_EDGECLK
+var add 2 0 0 162 7 0 257 100 50 50 10 10 0 0 0 0 ENInstd_logicRISING_EDGECLK
+var add 3 1 0 164 8 0 257 100 50 50 10 10 0 0 0 0 DINInstd_logic_vectorRISING_EDGECLK
+var add 4 0 0 162 9 0 257 100 50 50 10 10 0 0 0 0 POROutstd_logicRISING_EDGECLK
+var add 5 0 0 162 9 0 257 100 50 50 10 10 0 0 0 0 PANTOutstd_logicRISING_EDGECLK
+var add 6 0 0 162 9 0 257 100 50 50 10 10 0 0 0 0 POR10Outstd_logicRISING_EDGECLK
+var add 7 0 0 162 9 0 257 100 50 50 10 10 0 0 0 0 PANT10Outstd_logicRISING_EDGECLK
+vdone xxx 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+npos xxx 88 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+cell fill 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cell fill 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00
+cell fill 7 54 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+time info 50 50 10 10 50 50 1 1 0 0 0 0 0 0 0 0 nsCLK
+font save -14 0 400 49 0 0 0 0 0 0 0 0 0 0 0 0 Times New Roman
+src mod 0 34325174 30409520 0 0 0 0 0 0 0 0 0 0 0 0 0 StepToStep.vhd
+utd false 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+cellenab on 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+grid on 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+com add 1 1 0 175 9 0 -67 0 0 0 0 0 0 0 0 0 Waveform created by
+HDL Bencher 6.1i
+Source = StepToStep.vhd
+Tue Nov 18 14:05:17 2014
+opt vhdl87 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+NumClocks x 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+clock_1 name 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 CLK
+Zoom_level x 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.37500000000000

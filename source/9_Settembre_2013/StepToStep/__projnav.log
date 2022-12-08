@@ -1,0 +1,287 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd in Library work.
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 7. parse error, unexpected COLON, expecting SEMICOLON or CLOSEPAR
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd in Library work.
+ERROR:HDLParsers:3313 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 9. Undefined symbol 'sted_logic'.  Should it be: std_logic?
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 9. sted_logic: Undefined symbol (last report in this block)
+Entity <steptostep> (Architecture <behavioral>) compiled.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd in Library work.
+Entity <steptostep> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd in Library work.
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 19. parse error, unexpected INTEGER_LITERAL, expecting AFFECT or SEMICOLON
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 31. = can not have such operands in this context.
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 69. < can not have such operands in this context.
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 70. = can not have such operands in this context.
+ERROR:HDLParsers:3313 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 71. Undefined symbol 'cntOR'.  Should it be: 'cnt OR'?
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 71. cntOR: Undefined symbol (last report in this block)
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 73. = can not have such operands in this context.
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 76. = can not have such operands in this context.
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 77. = can not have such operands in this context.
+ERROR:HDLParsers:3312 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 78. Undefined symbol 'cntANT'.
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 78. cntANT: Undefined symbol (last report in this block)
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 80. = can not have such operands in this context.
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 85. parse error, unexpected EQ, expecting CLOSEPAR
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 92. = can not have such operands in this context.
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 95. = can not have such operands in this context.
+ERROR:HDLParsers:800 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 116. Type of PANT10 is incompatible with type of regPANT10.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd in Library work.
+ERROR:HDLParsers:808 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 31. = can not have such operands in this context.
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 85. parse error, unexpected EQ, expecting CLOSEPAR
+ERROR:HDLParsers:800 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 116. Type of PANT10 is incompatible with type of regPANT10.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd in Library work.
+ERROR:HDLParsers:164 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 85. parse error, unexpected EQ, expecting CLOSEPAR
+ERROR:HDLParsers:800 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 116. Type of PANT10 is incompatible with type of regPANT10.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd in Library work.
+ERROR:HDLParsers:3313 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 116. Undefined symbol 'regPANT10'.  Should it be: 'reg PANT10' or regANT10?
+ERROR:HDLParsers:1209 - C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd Line 116. regPANT10: Undefined symbol (last report in this block)
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd in Library work.
+Entity <steptostep> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3215 - Unit work/STEPTOSTEP is now defined in a different file: was C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd, now is C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/9_Settembre_2013/StepToStep/StepToStep.vhd
+WARNING:HDLParsers:3215 - Unit work/STEPTOSTEP/BEHAVIORAL is now defined in a different file: was C:/Users/Roberto/Desktop/StepToStep/StepToStep.vhd, now is C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/9_Settembre_2013/StepToStep/StepToStep.vhd
+Compiling vhdl file C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/9_Settembre_2013/StepToStep/StepToStep.vhd in Library work.
+Architecture behavioral of Entity steptostep is up to date.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3215 - Unit work/STEPTOSTEP is now defined in a different file: was C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/9_Settembre_2013/StepToStep/StepToStep.vhd, now is C:/Users/asus/Desktop/StepToStep/StepToStep.vhd
+WARNING:HDLParsers:3215 - Unit work/STEPTOSTEP/BEHAVIORAL is now defined in a different file: was C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/9_Settembre_2013/StepToStep/StepToStep.vhd, now is C:/Users/asus/Desktop/StepToStep/StepToStep.vhd
+Compiling vhdl file C:/Users/asus/Desktop/StepToStep/StepToStep.vhd in Library work.
+Entity <steptostep> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/9_Settembre_2013/StepToStep/StepToStep.vhd in Library work.
+Entity <steptostep> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file
+C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/9_Settembre_2013/StepToS
+tep/StepToStep.vhd in Library work.
+Entity <steptostep> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
