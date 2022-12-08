@@ -1,0 +1,7 @@
+V1 3
+FL c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd 2013/08/26.23:16:00
+EN work/PARITY_GEN      FL c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd \
+      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
+AR work/PARITY_GEN/BEHAVIORAL \
+      FL c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd \
+      EN work/PARITY_GEN

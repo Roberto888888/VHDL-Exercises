@@ -1,0 +1,5 @@
+-proj c:\users\roberto\desktop\parity_generator
+-t tbw.tbw
+-source Parity_Gen.vhd
+-entity parity_gen
+-ipcport 52642

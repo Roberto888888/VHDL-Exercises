@@ -1,0 +1,308 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 19. parse error, unexpected IF
+ERROR:HDLParsers:800 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 21. Type of cnt1 is incompatible with type of '0'.
+ERROR:HDLParsers:800 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 22. Type of cnt2 is incompatible with type of '0'.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 23. parse error, unexpected ELSIF
+ERROR:HDLParsers:834 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 28. Signal cnt2 has a multi source.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 29. parse error, unexpected ELSIF
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+ERROR:HDLParsers:800 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 23. Type of cnt1 is incompatible with type of '0'.
+ERROR:HDLParsers:800 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 24. Type of cnt2 is incompatible with type of '0'.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+Entity <Parity_Gen> (Architecture <Behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+ERROR:HDLParsers:808 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 35. xor can not have such operands in this context.
+ERROR:HDLParsers:808 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 36. xor can not have such operands in this context.
+ERROR:HDLParsers:808 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 38. xor can not have such operands in this context.
+ERROR:HDLParsers:808 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 39. xor can not have such operands in this context.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+Entity <parity_gen> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+Entity <parity_gen> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+Entity <parity_gen> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+ERROR:HDLParsers:3312 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 37. Undefined symbol 'reg'.
+ERROR:HDLParsers:1209 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 37. reg: Undefined symbol (last report in this block)
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+Entity <parity_gen> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+ERROR:HDLParsers:3312 - c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd Line 65. Undefined symbol 'OUTDATA'.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+Entity <parity_gen> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+Entity <parity_gen> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+Entity <parity_gen> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+

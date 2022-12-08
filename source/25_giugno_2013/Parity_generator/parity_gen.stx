@@ -1,0 +1,19 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.38 s | Elapsed : 0.00 / 0.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/parity_generator/Parity_Gen.vhd in Library work.
+Entity <parity_gen> (Architecture <behavioral>) compiled.
+CPU : 0.14 / 0.51 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 73632 kilobytes
+
+

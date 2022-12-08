@@ -1,0 +1,121 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:\Users\Roberto\Desktop\Parity_generator
+!i10d 8192
+!i10e 25
+!i10f 100
+Eparity_gen
+Z1 w1377542336
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 @_jbHPR7i^Jh?`2fDCO`m3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z4 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z6 dC:\Users\Roberto\Desktop\Parity_generator
+Z7 8Parity_Gen.vhd
+Z8 FParity_Gen.vhd
+l0
+L6
+V]]TQQ9M>c0P`@F?Bj^UUX3
+Z9 OP;C;10.2;57
+31
+Z10 !s110 1377542367
+Z11 !s108 1377542367.762000
+Z12 !s90 -reportprogress|300|-93|-explicit|Parity_Gen.vhd|
+Z13 !s107 Parity_Gen.vhd|
+Z14 o-93 -explicit -O0
+Z15 tExplicit 1
+!s100 k1j`7PD2k@<U5^:oj]20I0
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+Z16 DEx4 work 10 parity_gen 0 22 ]]TQQ9M>c0P`@F?Bj^UUX3
+l18
+L12
+VjRnaWm67aMmSOQk2YPgLT3
+R9
+31
+R10
+R11
+R12
+R13
+R14
+R15
+!s100 B^a?mP8bV`O6;ohi1jSf53
+!i10b 1
+Cparity_gen_cfg
+etbw
+atestbench_arch
+R16
+DAx4 work 3 tbw 14 testbench_arch 22 b5k?>eV=@VfTSTjAJf7_c1
+Z17 DPx4 ieee 16 std_logic_textio 0 22 E=LR>a2bb_I?VV>QDdAdh3
+R2
+R3
+R4
+R5
+Z18 DEx4 work 3 tbw 0 22 MLV8E4NV:n8a=Y[5oKGhz3
+Z19 w1377542351
+R6
+Z20 8tbw.vhw
+Z21 Ftbw.vhw
+l0
+L299
+V^_3EP`CUT]2mcXI8kOYJ40
+!s100 kG`ki[2hzS9i0jc9D]olM2
+R9
+31
+Z22 !s110 1377542368
+!i10b 0
+Z23 !s108 1377542368.184000
+Z24 !s90 -reportprogress|300|-93|-explicit|tbw.vhw|
+Z25 !s107 tbw.vhw|
+R14
+R15
+Etbw
+R19
+R17
+R2
+R3
+R4
+R5
+R6
+R20
+R21
+l0
+L21
+VMLV8E4NV:n8a=Y[5oKGhz3
+!s100 ?LHl5HP<]j6cLLLXFSmK=2
+R9
+31
+R22
+!i10b 1
+R23
+R24
+R25
+R14
+R15
+Atestbench_arch
+R17
+R2
+R3
+R4
+R5
+R18
+l44
+L24
+Z26 Vb5k?>eV=@VfTSTjAJf7_c1
+Z27 !s100 zBImGE]O2e<1h8Tg[j;471
+R9
+31
+R22
+!i10b 1
+R23
+R24
+R25
+R14
+R15
