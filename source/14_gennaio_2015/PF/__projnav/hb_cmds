@@ -1,0 +1,5 @@
+-proj c:\users\asus\desktop\pf\pf
+-t pf_tbw.tbw
+-source PF.vhd
+-entity pf
+-ipcport 64525

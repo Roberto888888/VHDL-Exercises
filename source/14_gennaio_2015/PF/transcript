@@ -1,0 +1,66 @@
+# Reading C:/Modeltech_pe_edu_10.3d/tcl/vsim/pref.tcl
+# do pf_tbw.fdo
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim PE Student Edition vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 02:17:08 on Jan 27,2015
+# vcom -reportprogress 300 -93 -explicit PF.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity PF
+# -- Compiling architecture Behavioral of PF
+# End time: 02:17:09 on Jan 27,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 02:17:09 on Jan 27,2015
+# vcom -reportprogress 300 -93 -explicit pf_tbw.vhw 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Compiling entity pf_tbw
+# -- Compiling architecture testbench_arch of pf_tbw
+# -- Compiling configuration pf_cfg
+# -- Loading entity pf_tbw
+# -- Loading architecture testbench_arch of pf_tbw
+# -- Loading entity PF
+# End time: 02:17:10 on Jan 27,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# //  ModelSim PE Student Edition 10.3d Oct  7 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui -do "pf_tbw.fdo" 
+# Start time: 02:17:10 on Jan 27,2015
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.pf_tbw(testbench_arch)
+# Loading work.pf(behavioral)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Failure: Simulation successful (not a failure).  No problems detected. 
+#    Time: 3960 ns  Iteration: 0  Process: /pf_tbw/line__71 File: pf_tbw.vhw
+# Break in Process line__71 at pf_tbw.vhw line 200
+# Simulation Breakpoint: Break in Process line__71 at pf_tbw.vhw line 200
+# MACRO ./pf_tbw.fdo PAUSED at line 13
+# End time: 02:19:22 on Jan 27,2015, Elapsed time: 0:02:12
+# Errors: 0, Warnings: 0

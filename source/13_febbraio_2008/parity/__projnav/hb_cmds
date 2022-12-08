@@ -1,0 +1,5 @@
+-proj c:\users\roberto\desktop\parity
+-t ytd.tbw
+-source parity.vhd
+-entity parity
+-ipcport 58189

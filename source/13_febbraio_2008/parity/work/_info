@@ -1,0 +1,121 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:\Users\Roberto\Desktop\parity
+!i10d 8192
+!i10e 25
+!i10f 100
+Eparity
+Z1 w1377979901
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 @_jbHPR7i^Jh?`2fDCO`m3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z4 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z6 dC:\Users\Roberto\Desktop\parity
+Z7 8parity.vhd
+Z8 Fparity.vhd
+l0
+L6
+V62hXA54jdgZYn`l]_U_gV0
+Z9 OP;C;10.2;57
+31
+Z10 !s110 1377980622
+Z11 !s108 1377980622.317000
+Z12 !s90 -reportprogress|300|-93|-explicit|parity.vhd|
+Z13 !s107 parity.vhd|
+Z14 o-93 -explicit -O0
+Z15 tExplicit 1
+!s100 D6`mHk`>=f9E0QMMKHRQn1
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+Z16 DEx4 work 6 parity 0 22 62hXA54jdgZYn`l]_U_gV0
+l16
+L12
+VXblZ2GgX@2mILXQiWH15L3
+!s100 c;[=<`W]zOI^obdTkdb;U1
+R9
+31
+R10
+R11
+R12
+R13
+R14
+R15
+!i10b 1
+Cparity_cfg
+eytd
+atestbench_arch
+R16
+DAx4 work 3 ytd 14 testbench_arch 22 oPoKDCDEM]IQj?Vi3:Kem3
+Z17 DPx4 ieee 16 std_logic_textio 0 22 E=LR>a2bb_I?VV>QDdAdh3
+R2
+R3
+R4
+R5
+Z18 DEx4 work 3 ytd 0 22 3RI=L4KQ>jF`9?[h[F_Gi0
+Z19 w1377980598
+R6
+Z20 8ytd.vhw
+Z21 Fytd.vhw
+l0
+L336
+VRn3SlYP=:]@NASWLzb8A>1
+!s100 IzU`I1SY4YmnSMn1UNRSU0
+R9
+31
+Z22 !s110 1377980623
+!i10b 0
+Z23 !s108 1377980622.681000
+Z24 !s90 -reportprogress|300|-93|-explicit|ytd.vhw|
+Z25 !s107 ytd.vhw|
+R14
+R15
+Eytd
+R19
+R17
+R2
+R3
+R4
+R5
+R6
+R20
+R21
+l0
+L21
+V3RI=L4KQ>jF`9?[h[F_Gi0
+!s100 FTcUc8DI@::ij84BOJahY0
+R9
+31
+R10
+!i10b 1
+R23
+R24
+R25
+R14
+R15
+Atestbench_arch
+R17
+R2
+R3
+R4
+R5
+R18
+l52
+L24
+VoPoKDCDEM]IQj?Vi3:Kem3
+!s100 5LUJLNmU2XodMnMWPk=>j2
+R9
+31
+R22
+!i10b 1
+R23
+R24
+R25
+R14
+R15

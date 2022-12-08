@@ -1,0 +1,55 @@
+# Reading C:/Modeltech_pe_edu_10.2/tcl/vsim/pref.tcl 
+# do ytd.fdo 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim PE Student Edition vcom 10.2 Compiler 2013.02 Feb  2 2013
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity parity
+# -- Compiling architecture Behavioral of parity
+# Model Technology ModelSim PE Student Edition vcom 10.2 Compiler 2013.02 Feb  2 2013
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Compiling entity ytd
+# -- Compiling architecture testbench_arch of ytd
+# -- Compiling configuration parity_cfg
+# -- Loading entity ytd
+# -- Loading architecture testbench_arch of ytd
+# -- Loading entity parity
+# //  ModelSim PE Student Edition 10.2 Feb  2 2013 
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -lib work -t 1ps ytd 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.ytd(testbench_arch)
+# Loading work.parity(behavioral)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Failure: Simulation successful (not a failure).  No problems detected. 
+#    Time: 4520 ns  Iteration: 0  Process: /ytd/line__80 File: ytd.vhw
+# Break in Process line__80 at ytd.vhw line 322
+# Simulation Breakpoint: Break in Process line__80 at ytd.vhw line 322
+# MACRO ./ytd.fdo PAUSED at line 13

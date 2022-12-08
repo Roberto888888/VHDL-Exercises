@@ -1,0 +1,294 @@
+-- C:\USERS\ROBERTO\DESKTOP\PARITY
+-- VHDL Annotation Test Bench created by
+-- HDL Bencher 6.1i
+-- Sat Aug 31 22:45:59 2013
+
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_ARITH.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+USE IEEE.STD_LOGIC_TEXTIO.ALL;
+USE STD.TEXTIO.ALL;
+
+ENTITY ytd IS
+END ytd;
+
+ARCHITECTURE testbench_arch OF ytd IS
+-- If you get a compiler error on the following line,
+-- from the menu do Options->Configuration select VHDL 87
+FILE RESULTS: TEXT OPEN WRITE_MODE IS "c:\users\roberto\desktop\parity\ytd.ano";
+	COMPONENT parity
+		PORT (
+			CLK : In  std_logic;
+			RST : In  std_logic;
+			EN : In  std_logic;
+			sel : In  std_logic;
+			Din : In  std_logic_vector (1 DOWNTO 0);
+			P0e : Out  std_logic;
+			P0o : Out  std_logic;
+			P1e : Out  std_logic;
+			P1o : Out  std_logic
+		);
+	END COMPONENT;
+
+	SIGNAL CLK : std_logic;
+	SIGNAL RST : std_logic;
+	SIGNAL EN : std_logic;
+	SIGNAL sel : std_logic;
+	SIGNAL Din : std_logic_vector (1 DOWNTO 0);
+	SIGNAL P0e : std_logic;
+	SIGNAL P0o : std_logic;
+	SIGNAL P1e : std_logic;
+	SIGNAL P1o : std_logic;
+
+BEGIN
+	UUT : parity
+	PORT MAP (
+		CLK => CLK,
+		RST => RST,
+		EN => EN,
+		sel => sel,
+		Din => Din,
+		P0e => P0e,
+		P0o => P0o,
+		P1e => P1e,
+		P1o => P1o
+	);
+
+	PROCESS -- clock process for CLK,
+		VARIABLE TX_TIME : INTEGER :=0;
+
+		PROCEDURE ANNOTATE_P0e(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",P0e,"));
+			IEEE.STD_LOGIC_TEXTIO.write(TX_LOC, P0e);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+		PROCEDURE ANNOTATE_P0o(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",P0o,"));
+			IEEE.STD_LOGIC_TEXTIO.write(TX_LOC, P0o);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+		PROCEDURE ANNOTATE_P1e(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",P1e,"));
+			IEEE.STD_LOGIC_TEXTIO.write(TX_LOC, P1e);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+		PROCEDURE ANNOTATE_P1o(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",P1o,"));
+			IEEE.STD_LOGIC_TEXTIO.write(TX_LOC, P1o);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+	BEGIN
+		CLOCK_LOOP : LOOP
+		CLK <= transport '0';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		CLK <= transport '1';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		ANNOTATE_P0e(TX_TIME);
+		ANNOTATE_P0o(TX_TIME);
+		ANNOTATE_P1e(TX_TIME);
+		ANNOTATE_P1o(TX_TIME);
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		CLK <= transport '0';
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		END LOOP CLOCK_LOOP;
+	END PROCESS;
+
+	PROCESS   -- Process for CLK
+		VARIABLE TX_OUT : LINE;
+
+		BEGIN
+		-- --------------------
+		RST <= transport '1';
+		EN <= transport '1';
+		sel <= transport '0';
+		Din <= transport std_logic_vector'("00"); --0
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=100 ns
+		RST <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=200 ns
+		EN <= transport '1';
+		Din <= transport std_logic_vector'("10"); --2
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=300 ns
+		sel <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=400 ns
+		sel <= transport '1';
+		Din <= transport std_logic_vector'("11"); --3
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=500 ns
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=600 ns
+		sel <= transport '0';
+		Din <= transport std_logic_vector'("00"); --0
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=700 ns
+		Din <= transport std_logic_vector'("11"); --3
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=800 ns
+		sel <= transport '1';
+		Din <= transport std_logic_vector'("10"); --2
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=1000 ns
+		Din <= transport std_logic_vector'("00"); --0
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1100 ns
+		sel <= transport '0';
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1200 ns
+		Din <= transport std_logic_vector'("10"); --2
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1300 ns
+		sel <= transport '1';
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1400 ns
+		EN <= transport '1';
+		sel <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1500 ns
+		Din <= transport std_logic_vector'("00"); --0
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=1700 ns
+		EN <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1800 ns
+		Din <= transport std_logic_vector'("11"); --3
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1900 ns
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=2000 ns
+		Din <= transport std_logic_vector'("11"); --3
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=2100 ns
+		RST <= transport '1';
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=2200 ns
+		Din <= transport std_logic_vector'("10"); --2
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=2300 ns
+		Din <= transport std_logic_vector'("11"); --3
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=2500 ns
+		Din <= transport std_logic_vector'("00"); --0
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=2600 ns
+		Din <= transport std_logic_vector'("11"); --3
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=2700 ns
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=2800 ns
+		Din <= transport std_logic_vector'("00"); --0
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=2900 ns
+		Din <= transport std_logic_vector'("11"); --3
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=3000 ns
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=3100 ns
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=3200 ns
+		Din <= transport std_logic_vector'("11"); --3
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=3400 ns
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=3500 ns
+		Din <= transport std_logic_vector'("10"); --2
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=3600 ns
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=3800 ns
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=3900 ns
+		Din <= transport std_logic_vector'("00"); --0
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=4000 ns
+		Din <= transport std_logic_vector'("10"); --2
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=4100 ns
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=4300 ns
+		Din <= transport std_logic_vector'("11"); --3
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=4400 ns
+		Din <= transport std_logic_vector'("00"); --0
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=4500 ns
+		Din <= transport std_logic_vector'("01"); --1
+		-- --------------------
+		WAIT FOR 20 ns; -- Time=4520 ns
+		-- --------------------
+
+		STD.TEXTIO.write(TX_OUT, string'("Total[]"));
+		STD.TEXTIO.writeline(results, TX_OUT);
+		ASSERT (FALSE) REPORT
+			"Success! Simulation for annotation completed"
+			SEVERITY FAILURE;
+	END PROCESS;
+END testbench_arch;
+
+CONFIGURATION parity_cfg OF ytd IS
+	FOR testbench_arch
+	END FOR;
+END parity_cfg;

@@ -1,0 +1,18 @@
+Release 6.1.03i - xst G.26
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.16 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/asus/desktop/pf/pf/PF.vhd in Library work.
+Entity <pf> (Architecture <behavioral>) compiled.
+CPU : 0.08 / 0.24 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 74236 kilobytes
+
+

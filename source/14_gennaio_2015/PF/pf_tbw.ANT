@@ -1,0 +1,188 @@
+-- C:\USERS\ASUS\DESKTOP\PF\PF
+-- VHDL Annotation Test Bench created by
+-- HDL Bencher 6.1i
+-- Tue Jan 27 02:16:50 2015
+
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_ARITH.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+USE IEEE.STD_LOGIC_TEXTIO.ALL;
+USE STD.TEXTIO.ALL;
+
+ENTITY pf_tbw IS
+END pf_tbw;
+
+ARCHITECTURE testbench_arch OF pf_tbw IS
+-- If you get a compiler error on the following line,
+-- from the menu do Options->Configuration select VHDL 87
+FILE RESULTS: TEXT OPEN WRITE_MODE IS "c:\users\asus\desktop\pf\pf\pf_tbw.ano";
+	COMPONENT pf
+		PORT (
+			CLK : In  std_logic;
+			RST : In  std_logic;
+			DIN : In  std_logic;
+			DIS : In  std_logic;
+			B : Out  std_logic;
+			DOUT : Out  std_logic
+		);
+	END COMPONENT;
+
+	SIGNAL CLK : std_logic;
+	SIGNAL RST : std_logic;
+	SIGNAL DIN : std_logic;
+	SIGNAL DIS : std_logic;
+	SIGNAL B : std_logic;
+	SIGNAL DOUT : std_logic;
+
+BEGIN
+	UUT : pf
+	PORT MAP (
+		CLK => CLK,
+		RST => RST,
+		DIN => DIN,
+		DIS => DIS,
+		B => B,
+		DOUT => DOUT
+	);
+
+	PROCESS -- clock process for CLK,
+		VARIABLE TX_TIME : INTEGER :=0;
+
+		PROCEDURE ANNOTATE_B(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",B,"));
+			IEEE.STD_LOGIC_TEXTIO.write(TX_LOC, B);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+		PROCEDURE ANNOTATE_DOUT(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",DOUT,"));
+			IEEE.STD_LOGIC_TEXTIO.write(TX_LOC, DOUT);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+	BEGIN
+		CLOCK_LOOP : LOOP
+		CLK <= transport '0';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		CLK <= transport '1';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		ANNOTATE_B(TX_TIME);
+		ANNOTATE_DOUT(TX_TIME);
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		CLK <= transport '0';
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		END LOOP CLOCK_LOOP;
+	END PROCESS;
+
+	PROCESS   -- Process for CLK
+		VARIABLE TX_OUT : LINE;
+
+		BEGIN
+		-- --------------------
+		RST <= transport '1';
+		DIN <= transport '1';
+		DIS <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=100 ns
+		RST <= transport '1';
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=200 ns
+		RST <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=300 ns
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 300 ns; -- Time=600 ns
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=700 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=800 ns
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=900 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1000 ns
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=1200 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=1400 ns
+		RST <= transport '1';
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=1600 ns
+		RST <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1700 ns
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1800 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=2000 ns
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=2100 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 600 ns; -- Time=2700 ns
+		RST <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=2800 ns
+		RST <= transport '0';
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=3000 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=3100 ns
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=3200 ns
+		DIN <= transport '0';
+		DIS <= transport '1';
+		-- --------------------
+		WAIT FOR 760 ns; -- Time=3960 ns
+		-- --------------------
+
+		STD.TEXTIO.write(TX_OUT, string'("Total[]"));
+		STD.TEXTIO.writeline(results, TX_OUT);
+		ASSERT (FALSE) REPORT
+			"Success! Simulation for annotation completed"
+			SEVERITY FAILURE;
+	END PROCESS;
+END testbench_arch;
+
+CONFIGURATION pf_cfg OF pf_tbw IS
+	FOR testbench_arch
+	END FOR;
+END pf_cfg;
