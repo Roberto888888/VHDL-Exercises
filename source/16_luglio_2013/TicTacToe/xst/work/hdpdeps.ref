@@ -1,0 +1,7 @@
+V1 4
+FL c:/users/roberto/desktop/tictactoe/TicTacToe.vhd 2013/08/24.23:46:39
+FL C:/Users/asus/Desktop/TicTacToe/TicTacToe.vhd 2014/11/18.20:28:05
+EN work/TICTACTOE       FL C:/Users/asus/Desktop/TicTacToe/TicTacToe.vhd \
+      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
+AR work/TICTACTOE/BEHAVIORAL FL C:/Users/asus/Desktop/TicTacToe/TicTacToe.vhd \
+      EN work/TICTACTOE

@@ -1,0 +1,171 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:\Users\Roberto\Desktop\TicTacToe
+!i10d 8192
+!i10e 25
+!i10f 100
+Etbw_1
+Z1 w1416338991
+Z2 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 dC:/Users/asus/Desktop/TicTacToe
+Z8 8tbw_1.vhw
+Z9 Ftbw_1.vhw
+l0
+L21
+VL^0h:<BIO]Bk^B:K:RmdL2
+!s100 UMU``DoOf7^Zf;B9Q1dOY0
+Z10 OP;C;10.3d;59
+31
+Z11 !s110 1416339001
+!i10b 1
+Z12 !s108 1416339001.088000
+Z13 !s90 -reportprogress|300|-93|-explicit|tbw_1.vhw|
+Z14 !s107 tbw_1.vhw|
+!i113 1
+Z15 o-93 -explicit -O0
+Z16 tExplicit 1
+Atestbench_arch
+R2
+R3
+R4
+R5
+R6
+Z17 DEx4 work 5 tbw_1 0 22 L^0h:<BIO]Bk^B:K:RmdL2
+l44
+L24
+VdEE37]enEb`95BMP6kBVP0
+!s100 ;9?Dk3716j42d1_UM5U4:0
+R10
+31
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Etictactoe
+Z18 w1416338885
+R3
+R4
+R5
+R6
+R7
+Z19 8TicTacToe.vhd
+Z20 FTicTacToe.vhd
+l0
+L7
+VSnc:R;5^PH4a_OmA7:^0R0
+!s100 Ab;k?V2dBHGnik556HgAh1
+R10
+31
+Z21 !s110 1416339000
+!i10b 1
+Z22 !s108 1416339000.353000
+Z23 !s90 -reportprogress|300|-93|-explicit|TicTacToe.vhd|
+Z24 !s107 TicTacToe.vhd|
+!i113 1
+R15
+R16
+Abehavioral
+R3
+R4
+R5
+R6
+Z25 DEx4 work 9 tictactoe 0 22 Snc:R;5^PH4a_OmA7:^0R0
+l27
+L13
+VoiZFPcDR_ULb_KKjEHodz1
+!s100 Mj7?P]=`JU=TR>ol:VX3_1
+R10
+31
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R15
+R16
+Ctictactoe_cfg
+etbw_1
+atestbench_arch
+R25
+DAx4 work 5 tbw_1 14 testbench_arch 22 dEE37]enEb`95BMP6kBVP0
+R2
+R3
+R4
+R5
+R6
+R17
+R1
+R7
+R8
+R9
+l0
+L212
+VOQTcUljR=YWKPQ5JGDCMm3
+!s100 9;JnQRV5@BYbTjW?4ShR23
+R10
+31
+R11
+!i10b 0
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Ettt
+Z26 w1416338895
+R2
+R3
+R4
+R5
+R6
+R7
+Z27 8ttt.vhw
+Z28 Fttt.vhw
+l0
+L21
+VI=VWAdOB>VUQj[OS_AkWK3
+!s100 i>Y0LC>=5>13Q=z_fJa1M3
+R10
+31
+Z29 !s110 1416338906
+!i10b 1
+Z30 !s108 1416338906.601000
+Z31 !s90 -reportprogress|300|-93|-explicit|ttt.vhw|
+Z32 !s107 ttt.vhw|
+!i113 1
+R15
+R16
+Atestbench_arch
+R2
+R3
+R4
+R5
+R6
+DEx4 work 3 ttt 0 22 I=VWAdOB>VUQj[OS_AkWK3
+l44
+L24
+VjcFINi3BFY0@ok2AIM4QQ0
+!s100 XNiDl9_ChNb5MjALT454z1
+R10
+31
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R15
+R16

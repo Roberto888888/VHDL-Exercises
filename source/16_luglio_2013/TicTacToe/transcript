@@ -1,0 +1,66 @@
+# Reading C:/Modeltech_pe_edu_10.3d/tcl/vsim/pref.tcl
+# do tbw_1.fdo
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim PE Student Edition vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 20:30:00 on Nov 18,2014
+# vcom -reportprogress 300 -93 -explicit TicTacToe.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity TicTacToe
+# -- Compiling architecture Behavioral of TicTacToe
+# End time: 20:30:00 on Nov 18,2014, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 20:30:01 on Nov 18,2014
+# vcom -reportprogress 300 -93 -explicit tbw_1.vhw 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package std_logic_textio
+# -- Compiling entity tbw_1
+# -- Compiling architecture testbench_arch of tbw_1
+# -- Compiling configuration tictactoe_cfg
+# -- Loading entity tbw_1
+# -- Loading architecture testbench_arch of tbw_1
+# -- Loading entity TicTacToe
+# End time: 20:30:01 on Nov 18,2014, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# //  ModelSim PE Student Edition 10.3d Oct  7 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui -do "tbw_1.fdo" 
+# Start time: 20:30:01 on Nov 18,2014
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.tbw_1(testbench_arch)
+# Loading work.tictactoe(behavioral)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Failure: Simulation successful (not a failure).  No problems detected. 
+#    Time: 7060 ns  Iteration: 0  Process: /tbw_1/line__68 File: tbw_1.vhw
+# Break in Process line__68 at tbw_1.vhw line 198
+# Simulation Breakpoint: Break in Process line__68 at tbw_1.vhw line 198
+# MACRO ./tbw_1.fdo PAUSED at line 13
+# End time: 20:30:39 on Nov 18,2014, Elapsed time: 0:00:38
+# Errors: 0, Warnings: 0

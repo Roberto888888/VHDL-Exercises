@@ -1,0 +1,596 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+ERROR:HDLParsers:3345 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 25.  Only SHARED variables can be declared here.
+ERROR:HDLParsers:800 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 27. Type of check is incompatible with type of 0.
+ERROR:HDLParsers:3384 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 93. String Literal "ZZZZ" is not of size 9.
+ERROR:HDLParsers:3384 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 93. String Literal "ZZZZ" is not of size 9.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+ERROR:HDLParsers:3345 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 25.  Only SHARED variables can be declared here.
+ERROR:HDLParsers:3384 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 93. String Literal "ZZZZ" is not of size 9.
+ERROR:HDLParsers:3384 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 93. String Literal "ZZZZ" is not of size 9.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+ERROR:HDLParsers:3345 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 25.  Only SHARED variables can be declared here.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+ERROR:HDLParsers:3312 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 98. Undefined symbol 'cnt_2'.
+ERROR:HDLParsers:1209 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 98. cnt_2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3324 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 98. IN mode Formal SIZE of conv_std_logic_vector with no default value must be associated with an actual value.
+ERROR:HDLParsers:3324 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 98. IN mode Formal SIZE of conv_std_logic_vector with no default value must be associated with an actual value.
+ERROR:HDLParsers:3324 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 98. IN mode Formal SIZE of conv_std_logic_vector with no default value must be associated with an actual value.
+ERROR:HDLParsers:3324 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 98. IN mode Formal SIZE of conv_std_logic_vector with no default value must be associated with an actual value.
+ERROR:HDLParsers:808 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 98. > can not have such operands in this context.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+Entity <TicTacToe> (Architecture <Behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+ERROR:HDLParsers:813 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 62. Enumerated value U is missing in case.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+ERROR:HDLParsers:800 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 62. Type of check is incompatible with type of 0.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+ERROR:HDLParsers:813 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 62. Enumerated value U is missing in case.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 95. parse error, unexpected WHEN, expecting SEMICOLON
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3458 - Because of erroneous VHDL in VHDL file c:\users\roberto\desktop\tictactoe/TicTacToe.vhd, automatic determination of correct order of compilation of files in project file tictactoe_vhdl.prj is not possible. Please compile your vhdl file(s) individually to find and fix the error(s) in your vhdl file(s). Defaulting to compilation in the order vhdl file names appear in the project file.
+Compiling vhdl file c:\users\roberto\desktop\tictactoe/TicTacToe.vhd in Library work.
+ERROR:HDLParsers:164 - c:\users\roberto\desktop\tictactoe/TicTacToe.vhd Line 106. parse error, unexpected PROCESS, expecting IF
+ERROR:HDLParsers:164 - c:\users\roberto\desktop\tictactoe/TicTacToe.vhd Line 108. parse error, unexpected WHEN, expecting SEMICOLON
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+ERROR:HDLParsers:800 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 34. Type of check is incompatible with type of 0.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+ERROR:HDLParsers:3312 - c:/users/roberto/desktop/tictactoe/TicTacToe.vhd Line 90. Undefined symbol 'tris'.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/tictactoe/TicTacToe.vhd in Library work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3215 - Unit work/TICTACTOE is now defined in a different file: was c:/users/roberto/desktop/tictactoe/TicTacToe.vhd, now is C:/Users/asus/Desktop/TicTacToe/TicTacToe.vhd
+WARNING:HDLParsers:3215 - Unit work/TICTACTOE/BEHAVIORAL is now defined in a different file: was c:/users/roberto/desktop/tictactoe/TicTacToe.vhd, now is C:/Users/asus/Desktop/TicTacToe/TicTacToe.vhd
+Compiling vhdl file C:/Users/asus/Desktop/TicTacToe/TicTacToe.vhd in Library work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/asus/Desktop/TicTacToe/TicTacToe.vhd in Library work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/asus/Desktop/TicTacToe/TicTacToe.vhd in Library
+work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/asus/Desktop/TicTacToe/TicTacToe.vhd in Library
+work.
+Entity <tictactoe> (Architecture <behavioral>) compiled.
+ERROR: 
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+

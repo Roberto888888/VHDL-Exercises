@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn tictactoe.prj
+-ifmt mixed
