@@ -1,0 +1,126 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:\Users\Roberto\Desktop\CLK_GEN_1
+!i10d 8192
+!i10e 25
+!i10f 100
+Eclkgen
+Z1 w1378671844
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/asus/Desktop/CLK_GEN_1
+Z7 8CLKGEN.vhd
+Z8 FCLKGEN.vhd
+l0
+L6
+VNEzaag]aK@^]m49NE_Un[2
+!s100 B`Uzk;mRP5D2JQJGTGI4n0
+Z9 OP;C;10.3d;59
+31
+Z10 !s110 1416319863
+!i10b 1
+Z11 !s108 1416319863.743000
+Z12 !s90 -reportprogress|300|-93|-explicit|CLKGEN.vhd|
+Z13 !s107 CLKGEN.vhd|
+!i113 1
+Z14 o-93 -explicit -O0
+Z15 tExplicit 1
+Abehavioral
+R2
+R3
+R4
+R5
+Z16 DEx4 work 6 clkgen 0 22 NEzaag]aK@^]m49NE_Un[2
+l18
+L11
+VKzmge4ZU>mzm417OS_`Ul2
+!s100 S5[;YdafzV4z?a2NBb`:U2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Cclkgen_cfg
+etbw
+atestbench_arch
+R16
+DAx4 work 3 tbw 14 testbench_arch 22 :KIi2JXHG]Z`J0^YKzieM1
+Z17 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R2
+R3
+R4
+R5
+Z18 DEx4 work 3 tbw 0 22 6MdlQXWTMPG6NAT[ba?bi1
+Z19 w1416319857
+R6
+Z20 8tbw.vhw
+Z21 Ftbw.vhw
+l0
+L186
+Vh<E_:iOO5jQboW5iUiX;R3
+!s100 =764B4RhgdSI?dj8hVjjz2
+R9
+31
+!s110 1416319865
+!i10b 0
+Z22 !s108 1416319864.486000
+Z23 !s90 -reportprogress|300|-93|-explicit|tbw.vhw|
+Z24 !s107 tbw.vhw|
+!i113 1
+R14
+R15
+Etbw
+R19
+R17
+R2
+R3
+R4
+R5
+R6
+R20
+R21
+l0
+L21
+V6MdlQXWTMPG6NAT[ba?bi1
+!s100 F2VIRf43QTMdUYB5EB^k?2
+R9
+31
+Z25 !s110 1416319864
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R14
+R15
+Atestbench_arch
+R17
+R2
+R3
+R4
+R5
+R18
+l44
+L24
+V:KIi2JXHG]Z`J0^YKzieM1
+!s100 ?n=MGB_e1RfJUM^4lfjNK0
+R9
+31
+R25
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R14
+R15

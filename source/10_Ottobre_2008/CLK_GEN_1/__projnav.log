@@ -1,0 +1,134 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 16. parse error, unexpected SEMICOLON, expecting COMMA or COLON
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd in Library work.
+ERROR:HDLParsers:800 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 26. Type of regOUT is incompatible with type of Z.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 39. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 42. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 52. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 55. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 65. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 68. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 78. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 81. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 91. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 94. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 104. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 107. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd in Library work.
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 39. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 42. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 52. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 55. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 65. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 68. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 78. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 81. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 91. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 94. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 104. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd Line 107. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd in Library work.
+Entity <CLKGEN> (Architecture <Behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3215 - Unit work/CLKGEN is now defined in a different file: was c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd, now is C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/10_Ottobre_2008/CLK_GEN_1/CLKGEN.vhd
+WARNING:HDLParsers:3215 - Unit work/CLKGEN/BEHAVIORAL is now defined in a different file: was c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd, now is C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/10_Ottobre_2008/CLK_GEN_1/CLKGEN.vhd
+Compiling vhdl file C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/10_Ottobre_2008/CLK_GEN_1/CLKGEN.vhd in Library work.
+Architecture behavioral of Entity clkgen is up to date.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+

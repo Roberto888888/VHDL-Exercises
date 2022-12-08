@@ -1,0 +1,49 @@
+# XST (Creating Lso File) : 
+clkgen.lso
+# Check Syntax
+clkgen.stx
+# XST (Creating Lso File) : 
+clkgen.lso
+# Check Syntax
+clkgen.stx
+# XST (Creating Lso File) : 
+clkgen.lso
+# Check Syntax
+clkgen.stx
+# XST (Creating Lso File) : 
+clkgen.lso
+# Check Syntax
+clkgen.stx
+# ProjNav -> New Source -> TBW
+c:\users\roberto\desktop\clk_gen_1\__projnav\hb_cmds
+# Bencher Waveform : PDCL (jhdparse)
+# ModelSim : Simulate Behavioral VHDL Model
+tbw.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+tbw.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# ModelSim : Simulate Behavioral VHDL Model
+tbw.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# XST (Creating Lso File) : 
+clkgen.lso
+# Check Syntax
+clkgen.stx
+# Bencher Waveform : PDCL (jhdparse)
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+tbw.vhw
+tbw.ano
+tbw.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+tbw.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)

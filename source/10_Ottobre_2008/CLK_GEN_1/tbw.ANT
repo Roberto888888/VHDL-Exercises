@@ -1,0 +1,168 @@
+-- C:\USERS\ASUS\DESKTOP\CLK_GEN_1
+-- VHDL Annotation Test Bench created by
+-- HDL Bencher 6.1i
+-- Tue Nov 18 15:10:57 2014
+
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_ARITH.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+USE IEEE.STD_LOGIC_TEXTIO.ALL;
+USE STD.TEXTIO.ALL;
+
+ENTITY tbw IS
+END tbw;
+
+ARCHITECTURE testbench_arch OF tbw IS
+-- If you get a compiler error on the following line,
+-- from the menu do Options->Configuration select VHDL 87
+FILE RESULTS: TEXT OPEN WRITE_MODE IS "c:\users\asus\desktop\clk_gen_1\tbw.ano";
+	COMPONENT clkgen
+		PORT (
+			CLK : In  std_logic;
+			RST : In  std_logic;
+			EN : In  std_logic;
+			DIN : In  std_logic;
+			CLK_OUT : Out  std_logic
+		);
+	END COMPONENT;
+
+	SIGNAL CLK : std_logic;
+	SIGNAL RST : std_logic;
+	SIGNAL EN : std_logic;
+	SIGNAL DIN : std_logic;
+	SIGNAL CLK_OUT : std_logic;
+
+BEGIN
+	UUT : clkgen
+	PORT MAP (
+		CLK => CLK,
+		RST => RST,
+		EN => EN,
+		DIN => DIN,
+		CLK_OUT => CLK_OUT
+	);
+
+	PROCESS -- clock process for CLK,
+		VARIABLE TX_TIME : INTEGER :=0;
+
+		PROCEDURE ANNOTATE_CLK_OUT(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",CLK_OUT,"));
+			IEEE.STD_LOGIC_TEXTIO.write(TX_LOC, CLK_OUT);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+	BEGIN
+		CLOCK_LOOP : LOOP
+		CLK <= transport '0';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		CLK <= transport '1';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		ANNOTATE_CLK_OUT(TX_TIME);
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		CLK <= transport '0';
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		END LOOP CLOCK_LOOP;
+	END PROCESS;
+
+	PROCESS   -- Process for CLK
+		VARIABLE TX_OUT : LINE;
+
+		BEGIN
+		-- --------------------
+		RST <= transport '1';
+		EN <= transport '1';
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=100 ns
+		RST <= transport '0';
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=200 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=400 ns
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=500 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 500 ns; -- Time=1000 ns
+		EN <= transport '0';
+		-- --------------------
+		WAIT FOR 400 ns; -- Time=1400 ns
+		EN <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1500 ns
+		RST <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1600 ns
+		RST <= transport '0';
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1700 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1800 ns
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=1900 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 900 ns; -- Time=2800 ns
+		RST <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=2900 ns
+		RST <= transport '0';
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 300 ns; -- Time=3200 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 800 ns; -- Time=4000 ns
+		EN <= transport '0';
+		-- --------------------
+		WAIT FOR 300 ns; -- Time=4300 ns
+		EN <= transport '1';
+		-- --------------------
+		WAIT FOR 1400 ns; -- Time=5700 ns
+		RST <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=5800 ns
+		RST <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=5900 ns
+		DIN <= transport '1';
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=6100 ns
+		DIN <= transport '0';
+		-- --------------------
+		WAIT FOR 3000 ns; -- Time=9100 ns
+		-- --------------------
+
+		STD.TEXTIO.write(TX_OUT, string'("Total[]"));
+		STD.TEXTIO.writeline(results, TX_OUT);
+		ASSERT (FALSE) REPORT
+			"Success! Simulation for annotation completed"
+			SEVERITY FAILURE;
+	END PROCESS;
+END testbench_arch;
+
+CONFIGURATION clkgen_cfg OF tbw IS
+	FOR testbench_arch
+	END FOR;
+END clkgen_cfg;

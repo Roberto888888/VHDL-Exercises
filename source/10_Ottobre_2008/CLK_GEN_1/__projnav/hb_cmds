@@ -1,0 +1,5 @@
+-proj c:\users\roberto\desktop\clk_gen_1
+-t tbw.tbw
+-source CLKGEN.vhd
+-entity clkgen
+-ipcport 57170

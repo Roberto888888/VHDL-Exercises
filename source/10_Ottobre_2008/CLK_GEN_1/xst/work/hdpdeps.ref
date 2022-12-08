@@ -1,0 +1,9 @@
+V1 4
+FL C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/10_Ottobre_2008/CLK_GEN_1/CLKGEN.vhd 2013/09/08.22:24:04
+EN work/CLKGEN \
+      FL C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/10_Ottobre_2008/CLK_GEN_1/CLKGEN.vhd \
+      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
+AR work/CLKGEN/BEHAVIORAL \
+      FL C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/10_Ottobre_2008/CLK_GEN_1/CLKGEN.vhd \
+      EN work/CLKGEN
+FL c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd 2013/09/09.00:24:03

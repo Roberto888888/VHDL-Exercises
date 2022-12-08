@@ -1,0 +1,20 @@
+Release 6.1.03i - xst G.26
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.45 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3215 - Unit work/CLKGEN is now defined in a different file: was c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd, now is C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/10_Ottobre_2008/CLK_GEN_1/CLKGEN.vhd
+WARNING:HDLParsers:3215 - Unit work/CLKGEN/BEHAVIORAL is now defined in a different file: was c:/users/roberto/desktop/clk_gen_1/CLKGEN.vhd, now is C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/10_Ottobre_2008/CLK_GEN_1/CLKGEN.vhd
+Compiling vhdl file C:/Users/asus/Desktop/università/esd/vhdl/esami/risolti/10_Ottobre_2008/CLK_GEN_1/CLKGEN.vhd in Library work.
+Architecture behavioral of Entity clkgen is up to date.
+CPU : 0.14 / 0.59 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 74232 kilobytes
+
+
