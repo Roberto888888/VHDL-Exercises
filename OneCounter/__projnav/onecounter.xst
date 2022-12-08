@@ -1,4 +1,0 @@
-set -tmpdir .
-elaborate
--ifn onecounter.prj
--ifmt mixed

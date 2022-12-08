@@ -1,6 +1,0 @@
-V1 3
-FL c:/users/asus/desktop/onecounter/onecounter.vhd 2014/11/18.10:24:40
-EN work/ONECOUNTER      FL c:/users/asus/desktop/onecounter/onecounter.vhd \
-      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
-AR work/ONECOUNTER/BEHAVIORAL FL c:/users/asus/desktop/onecounter/onecounter.vhd \
-      EN work/ONECOUNTER

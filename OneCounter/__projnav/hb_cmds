@@ -1,5 +1,0 @@
--proj c:\users\asus\desktop\onecounter
--t OC.tbw
--source onecounter.vhd
--entity onecounter
--ipcport 62717
