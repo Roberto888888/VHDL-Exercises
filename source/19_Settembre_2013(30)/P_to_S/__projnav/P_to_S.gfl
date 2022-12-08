@@ -1,0 +1,34 @@
+# XST (Creating Lso File) : 
+p_to_s.lso
+# Check Syntax
+p_to_s.stx
+# ProjNav -> New Source -> TBW
+c:\users\roberto\desktop\p_to_s\__projnav\hb_cmds
+# Bencher Waveform : PDCL (jhdparse)
+# ModelSim : Simulate Behavioral VHDL Model
+test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)
+# XST (Creating Lso File) : 
+p_to_s.lso
+# Check Syntax
+p_to_s.stx
+# XST (Creating Lso File) : 
+p_to_s.lso
+# Check Syntax
+p_to_s.stx
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+test.vhw
+test.ano
+test.tfw
+# ModelSim : Simulate Behavioral VHDL Model
+test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+test.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# Bencher Waveform : PDCL (jhdparse)

@@ -1,0 +1,5 @@
+-proj c:\users\roberto\desktop\p_to_s
+-t test.tbw
+-source P_to_S.vhd
+-entity p_to_s
+-ipcport 49512

@@ -1,0 +1,76 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/users/roberto/desktop/p_to_s/P_to_S.vhd in Library work.
+Entity <P_to_S> (Architecture <Behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3215 - Unit work/P_TO_S is now defined in a different file: was c:/users/roberto/desktop/p_to_s/P_to_S.vhd, now is C:/Users/asus/Desktop/P_to_S/P_to_S.vhd
+WARNING:HDLParsers:3215 - Unit work/P_TO_S/BEHAVIORAL is now defined in a different file: was c:/users/roberto/desktop/p_to_s/P_to_S.vhd, now is C:/Users/asus/Desktop/P_to_S/P_to_S.vhd
+Compiling vhdl file C:/Users/asus/Desktop/P_to_S/P_to_S.vhd in Library work.
+ERROR:HDLParsers:3324 - C:/Users/asus/Desktop/P_to_S/P_to_S.vhd Line 28. IN mode Formal SIZE of conv_unsigned with no default value must be associated with an actual value.
+ERROR:HDLParsers:3324 - C:/Users/asus/Desktop/P_to_S/P_to_S.vhd Line 28. IN mode Formal SIZE of conv_unsigned with no default value must be associated with an actual value.
+ERROR:HDLParsers:3324 - C:/Users/asus/Desktop/P_to_S/P_to_S.vhd Line 28. IN mode Formal SIZE of conv_unsigned with no default value must be associated with an actual value.
+ERROR:HDLParsers:3324 - C:/Users/asus/Desktop/P_to_S/P_to_S.vhd Line 28. IN mode Formal SIZE of conv_unsigned with no default value must be associated with an actual value.
+ERROR: XST failed
+Process "Check Syntax" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "Check Syntax".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/asus/Desktop/P_to_S/P_to_S.vhd in Library work.
+Entity <p_to_s> (Architecture <behavioral>) compiled.
+Completed process "Check Syntax".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+Compiling vhdl file C:/Users/asus/Desktop/P_to_S/P_to_S.vhd in Library work.
+Entity <p_to_s> (Architecture <behavioral>) compiled.
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+

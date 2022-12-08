@@ -1,0 +1,18 @@
+Release 6.1.03i - xst G.26
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.28 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Users/asus/Desktop/P_to_S/P_to_S.vhd in Library work.
+Entity <p_to_s> (Architecture <behavioral>) compiled.
+CPU : 0.08 / 0.36 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 74296 kilobytes
+
+
